@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.instagram.com/gstnio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-   <a href="https://www.linkedin.com/in/gabriel-stênio-b87657203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&labelColor=informational" alt="Linkedin"></a>
+   <a href="https://www.linkedin.com/in/gstenio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&labelColor=informational" alt="Linkedin"></a>
 </div><br>
 
 <div>
