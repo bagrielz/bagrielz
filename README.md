@@ -1,4 +1,4 @@
-## Olá! Meu nome é Gabriel Stênio e bem-vindo(a) ao meu GitHub. 🤘
+## Olá! Meu nome é Gabriel Stênio e boas-vindas ao meu GitHub. 🤘
 
 <div>
   <a href="https://www.instagram.com/gstnio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
