@@ -12,9 +12,9 @@
 ##
 
 <ul>
-  <li>Desenvolvedor front-end.</li>
-  <li>Estudando JavaScript, React.js, Vue.js e conceitos de UX/UI Designer.</li>
-  <li>Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac DF.</li>
+  <li>Desenvolvedor front-end júnior.</li>
+  <li>Estudando JavaScript, React.js, Vue.js e conceitos de UX/UI Design.</li>
+  <li>Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.</li>
 </ul>
 
 ##
