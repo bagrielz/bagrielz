@@ -12,7 +12,7 @@
 ##
 
 <ul>
-  <li>Desenvolvedor front-end junior (ReactJS, SCSS, UI Design).</li>
+  <li>Desenvolvedor front-end junior (ReactJS, SCSS e UI Design).</li>
   <li>Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.</li>
 </ul>
 
