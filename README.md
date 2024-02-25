@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Gabriel Stênio e boas-vindas ao meu GitHub. 🤘
 
-Olá, meu nome é Gabriel Stênio, muito prazer! Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.
+Muito prazer! Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.
 
 Sou apaixonado pela área de desenvolvimento front-end e design de interfaces. Por meio de cursos e estudo, procuro evoluir meu conhecimento e construir minha jornada profissional. Meu intuito é criar soluções que ajudem as pessoas a se posicionar de forma clara e objetiva através de sites, aplicativos e sistemas.
 
