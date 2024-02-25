@@ -2,7 +2,7 @@ Olá, meu nome é Gabriel Stênio e boas-vindas ao meu GitHub, muito prazer! Atu
 
 Sou apaixonado pela área de desenvolvimento front-end e design de interfaces. Por meio de cursos e estudo, procuro evoluir meu conhecimento e construir minha jornada profissional. Meu intuito é criar soluções que ajudem as pessoas a se posicionar de forma clara e objetiva através de sites, aplicativos e sistemas.
 
-### Stacks
+### Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
