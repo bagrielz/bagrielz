@@ -1,36 +1,22 @@
 ## Olá! Meu nome é Gabriel Stênio e boas-vindas ao meu GitHub. 🤘
 
-<div>
-  <a href="https://www.instagram.com/bagrielz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-   <a href="https://www.linkedin.com/in/gstenio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&labelColor=informational" alt="Linkedin"></a>
-</div><br>
+Olá, meu nome é Gabriel Stênio, muito prazer! Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstenio&layout=compact&langs_count=8&theme=hightcontrast"/>
-</div>
+Sou apaixonado pela área de desenvolvimento front-end e design de interfaces. Por meio de cursos e estudo, procuro evoluir meu conhecimento e construir minha jornada profissional. Meu intuito é criar soluções que ajudem as pessoas a se posicionar de forma clara e objetiva através de sites, aplicativos e sistemas.
 
-##
+### Stacks
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<ul>
-  <li>Desenvolvedor front-end junior (ReactJS, SCSS e UI Design).</li>
-  <li>Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.</li>
-</ul>
+Estou sempre à disposição para eventuais conversas, basta chamar em uma das minhas redes sociais, valeu!
 
-##
-
-
-
-<!--
-**gstenio/gstenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/bagrielz/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/bagriel/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn" />
+</a>
