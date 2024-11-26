@@ -5,7 +5,7 @@ Sou apaixonado pela área de desenvolvimento front-end e design de interfaces. P
 ### Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=css3)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
