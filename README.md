@@ -1,3 +1,5 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 Olá, meu nome é Gabriel e seja bem-vindo ao meu GitHub!
 
 Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac-DF.
